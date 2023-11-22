@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@600&display=swap');
+.back1{
+    background-image:linear-gradient(to bottom right,#eff7ea,#ffffff,#edfaf3);
+}
+.heading1{
+    font-family: 'Alkatra', cursive;
+}
+.a{
+    margin: 5px;
+    padding: 5px;
+    margin: 1px solid black;
+}

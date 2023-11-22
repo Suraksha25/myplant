@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Courgette&family=Oxygen&family=Quicksand&family=Satisfy&family=Slabo+27px&family=Work+Sans:ital,wght@1,800&display=swap');
+.sow{
+    display: block;
+    margin: auto;
+}
+.stick{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0; 
+}
+h4{
+    
+  font-family: 'Work Sans', sans-serif;
+}
+h5{
+  font-family: 'Acme', sans-serif;
+}
+p,li{
+  font-family: 'Oxygen', sans-serif;
+}
+.linkk{
+  font-family: 'Acme', sans-serif;
+}
+.Video{
+  padding: 20px;
+  display: block;
+  margin: auto;
+  width:400px;
+}
+@media screen and (min-width:380px) and (max-width:500px)
+{
+  .Video{
+      padding: 20px;
+      display: block;
+      margin: auto;
+      max-width:300px ;
+    }
+}
+@media screen and (min-width:500px) and (max-width:780px){
+  .Video{
+      padding: 20px;
+      display: block;
+      margin: auto;
+      max-width:350px ;
+    }
+}

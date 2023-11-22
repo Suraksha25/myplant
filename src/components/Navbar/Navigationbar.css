@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Quicksand&family=Satisfy&family=Slabo+27px&display=swap');
+.navi,.navs
+{
+    font-size: 25px;
+}
+
+.analytics-link.active , .main-link.active , .today-link.active{
+    text-decoration: underline;
+}
+.img{
+    border-radius: 50;
+}
+.main,.analytics,.today{
+    font-family: 'Slabo 27px', serif;
+
+}
+.navvv{
+    background-color: #e2e1d8;
+}
